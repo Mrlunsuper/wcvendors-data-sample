@@ -1,0 +1,18 @@
+{
+    "vendorone" : {
+        "name" : "Vendor One",
+        "password" : "1",
+        "email" : "vendorone@localhost.test"
+    },
+    "vendortwo" : {
+        "name" : "Vendor Two",
+        "password" : "1",
+        "email" : "vendortwo@localhost.test"
+    },
+    "vendorthree" : {
+        "name" : "Vendor Three",
+        "password" : "1",
+        "email" : "vendorthree@localhost.test"
+    }
+    
+}
